@@ -7,4 +7,6 @@ __pycache__/
 logs/
 runs/
 outputs/
+models/
 data/
+spo2-phonecam/external/oximetry-phone-cam-data/
